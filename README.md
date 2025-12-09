@@ -12,5 +12,6 @@ Visualizes sales trends, top products, and regional performance with clear KPIs.
 - Power BI Desktop
 - Excel (raw data)
 - DAX formulas
+![power bi dashboard](screenshots/powerbidashboard.png)
 
 
